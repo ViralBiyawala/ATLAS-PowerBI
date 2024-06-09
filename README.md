@@ -15,8 +15,17 @@ This Power BI dashboard analyzes employee attrition, visualizing key metrics suc
   - Self Rating
 - **Detailed Attrition Analysis**: Examines attrition rates by department, job role, hire date, travel frequency, overtime, and tenure.
 
+## Screenshots
+Here are some screenshots of the dashboard:
+
+### Overview Page
+![Overview](pictures/overview.png)
+
+### Demographics Page
+![Demographics](pictures/demographics.png)
+
 ## Full PDF Report
-For a detailed view, you can download the full PDF report [here](FisrtCaseStudy.pdf).
+For a detailed view, you can download the full PDF report [ATLAS_ALBS.pdf](ATLAS_LABS.pdf).
 
 ## How to Use
 1. **Open Power BI Report**: Download and open the .pbix file in Power BI Desktop.
@@ -31,7 +40,7 @@ The dashboard is powered by data from the following sources:
 - Performance evaluation data.
 
 ## Installation
-1. Download the .pbix file.
+1. Download the .pbix file [ATLAS_ALBS.pbix](ATLAS_LABS.pbix).
 2. Open Power BI Desktop.
 3. Load the .pbix file to view the dashboard.
 
