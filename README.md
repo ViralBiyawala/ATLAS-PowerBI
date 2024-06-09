@@ -1,4 +1,4 @@
-# Employee Attrition Dashboard for ATLAS LABS in Power BI
+# ATLAS Labs Employee Attrition Dashboard | Power BI
 
 ## Overview
 This Power BI dashboard analyzes employee attrition, visualizing key metrics such as overall attrition rate, hiring trends, and active employees by department and job role. It includes demographic insights, performance tracking, and detailed attrition analysis by various factors, helping stakeholders manage and reduce employee turnover effectively.
@@ -24,6 +24,9 @@ Here are some screenshots of the dashboard:
 ### Demographics Page
 ![Demographics](pictures/demographics.png)
 
+### Model and Relationship view
+![Model](pictures/model.jpg)
+
 ## Full PDF Report
 For a detailed view, you can download the full PDF report [ATLAS_ALBS.pdf](ATLAS_LABS.pdf).
 
@@ -43,6 +46,9 @@ The dashboard is powered by data from the following sources:
 1. Download the .pbix file [ATLAS_ALBS.pbix](ATLAS_LABS.pbix).
 2. Open Power BI Desktop.
 3. Load the .pbix file to view the dashboard.
+
+## Acknowledgments
+- [**ATLAS LABS**](https://www.atlaslab.in/) for providing the dataset.
 
 ## Contribution
 Feel free to contribute by submitting issues or pull requests. For major changes, please open an issue first to discuss what you would like to change.
