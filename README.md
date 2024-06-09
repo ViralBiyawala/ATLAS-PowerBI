@@ -37,6 +37,9 @@ For a detailed view, you can download the full PDF report [ATLAS_ALBS.pdf](ATLAS
 4. **Sharing**: Publish the report to Power BI Service for real-time updates and collaborative access.
 
 ## Data Sources
+The raw data used for analsysis is [here](case-study-atlas-labs.zip).
+
+
 The dashboard is powered by data from the following sources:
 - Employee records including hire dates, department, job roles, and performance ratings.
 - Demographic information such as age, gender, marital status, and ethnicity.
