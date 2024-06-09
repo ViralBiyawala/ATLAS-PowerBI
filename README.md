@@ -16,7 +16,7 @@ This Power BI dashboard analyzes employee attrition, visualizing key metrics suc
 - **Detailed Attrition Analysis**: Examines attrition rates by department, job role, hire date, travel frequency, overtime, and tenure.
 
 ## Full PDF Report
-For a detailed view, you can download the full PDF report [here](path/to/FisrtCaseStudy.pdf).
+For a detailed view, you can download the full PDF report [here](FisrtCaseStudy.pdf).
 
 ## How to Use
 1. **Open Power BI Report**: Download and open the .pbix file in Power BI Desktop.
