@@ -11,8 +11,6 @@ This Power BI dashboard analyzes employee attrition, visualizing key metrics suc
   - Job Satisfaction
   - Enivornment Satisfaction
   - Relationship Satisfaction
-  - Manager Rating
-  - Self Rating
 - **Detailed Attrition Analysis**: Examines attrition rates by department, job role, hire date, travel frequency, overtime, and tenure.
 
 ## Screenshots
